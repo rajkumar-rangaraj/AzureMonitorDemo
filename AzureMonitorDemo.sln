@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureMonitorDemo", "AzureMonitorDemo.csproj", "{C2710354-571E-B8C7-0172-AE4B7BAC790D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2710354-571E-B8C7-0172-AE4B7BAC790D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2710354-571E-B8C7-0172-AE4B7BAC790D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2710354-571E-B8C7-0172-AE4B7BAC790D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2710354-571E-B8C7-0172-AE4B7BAC790D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0B4223-E7C9-4922-9864-30DED5F5AA11}
+	EndGlobalSection
+EndGlobal
